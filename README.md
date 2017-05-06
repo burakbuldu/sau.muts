@@ -79,7 +79,7 @@ $mail->sifre Gönderici GMail şifresi
 
 # Güncellemeler Hakkında
 
-Son Güncellemede sistemde 3 soruyla staj, birim ve işletme değerlendirmek için yıldız sistemi eklendi. Bunun için yeni formlar oluşturuldu. Autocomplete hataları düzeltildi. Akademik personel için işletme değerlendirmelerini görebileceği ekranlar hazırlandı.
+Son Güncellemede sistemde 3 soruyla staj, birim ve işletme değerlendirmek için yıldız sistemi eklendi. Bunun için yeni formlar oluşturuldu. Autocomplete hataları düzeltildi. Akademik personel için işletme değerlendirmelerini görebileceği ekranlar hazırlandı. Lise bilgileriyle ilgili tablolar ve ekranlar kaldırıldı.
 
 Canlı Sistem için: http://www.saumis.sakarya.edu.tr
 
