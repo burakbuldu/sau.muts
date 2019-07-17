@@ -25,13 +25,9 @@ Arial Türkçe fontunu kendimiz sisteme ekledik. Eğer başka bir font eklemek i
 Convert ettiğiniz fontun *.php *.ctg.z ve *.z dosyalarını  /pdf/fonts dizinine yükleyiniz. Üç dosyanın da aynı dizine yüklenmesi gerekiyor.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-# DEMO
+# VERİTABANI
 
-Demo Akademik Kullanıcı: admin Şifre: 123456
-
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Demo sistemde bilgi güncelleyemez ya da sıfırlayamazsınız.
+Örnek Akademik Kullanıcı Bilgileri: admin Şifre: 123456
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
